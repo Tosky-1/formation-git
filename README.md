@@ -7,4 +7,4 @@ This repository is built step by step in the tutorial.
 
 it now includes steps for Github
 
-New line
+this is a New line
